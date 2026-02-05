@@ -16,7 +16,7 @@ pip install -U mlcflow
 
 mlc rm cache -f
 
-mlc pull repo amd@mlperf-automations --checkout=11e178bce81d4b96ad2201becd6ac15d2c8c596e
+mlc pull repo amd@mlperf-automations --checkout=b6a5d6a61cfc042593aa62e70ea9f1ae2deb026f
 
 
 ```
@@ -32,7 +32,7 @@ mlc rm cache -f
 
 ## Results
 
-Platform: gh_ubuntu-latest_x86-reference-cpu-tf_v2.20.0-default_config
+Platform: gh_ubuntu-latest_x86-reference-cpu-onnxruntime_v1.24.1-default_config
 
 Model Precision: fp32
 
@@ -40,4 +40,4 @@ Model Precision: fp32
 `acc`: `76.0`, Required accuracy for closed division `>= 75.6954`
 
 ### Performance Results 
-`Samples per second`: `21.0247`
+`Samples per second`: `38.9561`
