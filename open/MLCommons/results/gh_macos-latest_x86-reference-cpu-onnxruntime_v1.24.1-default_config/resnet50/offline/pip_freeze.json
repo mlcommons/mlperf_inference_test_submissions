@@ -14,7 +14,7 @@
     "opencv-python-headless": "4.13.0.92",
     "packaging": "26.0",
     "pillow": "12.1.1",
-    "pip": "25.3",
+    "pip": "26.0.1",
     "protobuf": "6.33.5",
     "psutil": "7.2.2",
     "pybind11": "3.0.1",
