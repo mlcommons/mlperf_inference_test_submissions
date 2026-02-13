@@ -2,9 +2,9 @@
 
 ## Host platform
 
-* OS version: Linux-6.14.0-1017-azure-x86_64-with-glibc2.39
-* CPU version: x86_64
-* Python version: 3.13.12 (main, Feb  4 2026, 13:48:12) [GCC 13.3.0]
+* OS version: macOS-15.7.3-arm64-arm-64bit-Mach-O
+* CPU version: arm
+* Python version: 3.13.12 (v3.13.12:1cbe4818347, Feb  3 2026, 13:36:53) [Clang 16.0.0 (clang-1600.0.26.6)]
 * MLC version: unknown
 
 ## MLC Run Command
@@ -32,7 +32,7 @@ mlc rm cache -f
 
 ## Results
 
-Platform: gh_ubuntu-latest_x86-mlcommons_cpp-cpu-onnxruntime-default_config
+Platform: gh_macos-latest_x86-reference-cpu-onnxruntime_v1.24.1-default_config
 
 Model Precision: fp32
 
@@ -40,4 +40,4 @@ Model Precision: fp32
 `acc`: `76.0`, Required accuracy for closed division `>= 75.6954`
 
 ### Performance Results 
-`Samples per second`: `23.2954`
+`Samples per second`: `11.2497`
