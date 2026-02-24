@@ -14,7 +14,6 @@
     "idna": "3.11",
     "keras": "3.13.2",
     "libclang": "18.1.1",
-    "loguru": "0.7.3",
     "Markdown": "3.10.2",
     "markdown-it-py": "4.0.0",
     "MarkupSafe": "3.0.3",
