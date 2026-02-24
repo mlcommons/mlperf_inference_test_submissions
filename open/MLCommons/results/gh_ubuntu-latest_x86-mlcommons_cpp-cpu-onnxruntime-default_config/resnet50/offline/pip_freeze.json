@@ -5,6 +5,7 @@
     "colorama": "0.4.6",
     "giturlparse": "0.14.0",
     "idna": "3.11",
+    "loguru": "0.7.3",
     "mlcflow": "1.1.20",
     "numpy": "2.4.2",
     "opencv-python-headless": "4.13.0.92",
