@@ -1,5 +1,5 @@
-User Conf path: /Users/runner/MLC/repos/amd@mlperf-automations/script/generate-mlperf-inference-user-conf/tmp/a35e4c1327d240be8cc9f686d0c15d5d.conf
-Dataset Preprocessed path: /Users/runner/MLC/repos/local/cache/get-preprocessed-dataset-imagenet_7a9ccc7a
+User Conf path: /Users/runner/MLC/repos/mlcommons@mlperf-automations/script/generate-mlperf-inference-user-conf/tmp/f01167e2f6dc4133b962428821b0033b.conf
+Dataset Preprocessed path: /Users/runner/MLC/repos/local/cache/get-preprocessed-dataset-imagenet_139c6400
 Dataset List filepath: 
 Scenario: Offline
 Mode: PerformanceOnly
