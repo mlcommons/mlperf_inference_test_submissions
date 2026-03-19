@@ -4,7 +4,7 @@
 
 * OS version: Linux-6.14.0-1017-azure-x86_64-with-glibc2.39
 * CPU version: x86_64
-* Python version: 3.12.13 (main, Mar  4 2026, 02:26:36) [GCC 13.3.0]
+* Python version: 3.13.12 (main, Feb  4 2026, 13:48:12) [GCC 13.3.0]
 * MLC version: unknown
 
 ## MLC Run Command
@@ -16,7 +16,7 @@ pip install -U mlcflow
 
 mlc rm cache -f
 
-mlc pull repo amd@mlperf-automations --checkout=7bf5fbddec9b9a08e38af0b1af450d0708f33cc4
+mlc pull repo amd@mlperf-automations --checkout=fa4f12aeff943372a0b3352b82a39458acf22ab2
 
 
 ```
@@ -40,4 +40,4 @@ Model Precision: fp32
 `acc`: `76.0`, Required accuracy for closed division `>= 75.6954`
 
 ### Performance Results 
-`Samples per second`: `42.9968`
+`Samples per second`: `23.1068`
