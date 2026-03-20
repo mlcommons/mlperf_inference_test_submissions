@@ -4,7 +4,7 @@
 
 * OS version: Linux-6.14.0-1017-azure-x86_64-with-glibc2.39
 * CPU version: x86_64
-* Python version: 3.13.12 (main, Feb  4 2026, 13:48:12) [GCC 13.3.0]
+* Python version: 3.12.13 (main, Mar  4 2026, 02:26:36) [GCC 13.3.0]
 * MLC version: unknown
 
 ## MLC Run Command
@@ -16,16 +16,16 @@ pip install -U mlcflow
 
 mlc rm cache -f
 
-mlc pull repo amd@mlperf-automations --checkout=fa4f12aeff943372a0b3352b82a39458acf22ab2
+mlc pull repo mlcommons@mlperf-automations --checkout=b6dbaec10cb435d143a9d7c519045e1b99a47612
 
 
 ```
 *Note that if you want to use the [latest automation recipes](https://docs.mlcommons.org/inference) for MLPerf,
- you should simply reload amd@mlperf-automations without checkout and clean MLC cache as follows:*
+ you should simply reload mlcommons@mlperf-automations without checkout and clean MLC cache as follows:*
 
 ```bash
-mlc rm repo amd@mlperf-automations
-mlc pull repo amd@mlperf-automations
+mlc rm repo mlcommons@mlperf-automations
+mlc pull repo mlcommons@mlperf-automations
 mlc rm cache -f
 
 ```
@@ -40,4 +40,4 @@ Model Precision: fp32
 `acc`: `76.0`, Required accuracy for closed division `>= 75.6954`
 
 ### Performance Results 
-`Samples per second`: `23.1068`
+`Samples per second`: `23.4997`
