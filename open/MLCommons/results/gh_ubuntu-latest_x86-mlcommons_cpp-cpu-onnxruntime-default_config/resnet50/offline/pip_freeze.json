@@ -7,7 +7,7 @@
     "giturlparse": "0.14.0",
     "idna": "3.11",
     "loguru": "0.7.3",
-    "mlcflow": "1.1.21",
+    "mlcflow": "1.2.0",
     "numpy": "2.4.4",
     "opencv-python-headless": "4.13.0.92",
     "packaging": "26.0",
