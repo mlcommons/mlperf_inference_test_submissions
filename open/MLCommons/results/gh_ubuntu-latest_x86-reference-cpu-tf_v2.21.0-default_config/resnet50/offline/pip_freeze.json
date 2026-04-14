@@ -36,7 +36,7 @@
     "Pygments": "2.20.0",
     "PyYAML": "6.0.3",
     "requests": "2.33.1",
-    "rich": "14.3.3",
+    "rich": "15.0.0",
     "setuptools": "82.0.1",
     "six": "1.17.0",
     "tabulate": "0.10.0",
