@@ -5,7 +5,7 @@
     "colorama": "0.4.6",
     "filelock": "3.29.0",
     "giturlparse": "0.14.0",
-    "idna": "3.11",
+    "idna": "3.12",
     "loguru": "0.7.3",
     "mlcflow": "1.2.1",
     "numpy": "2.4.4",
