@@ -1,11 +1,11 @@
 {
   "pip_freeze": {
-    "certifi": "2026.2.25",
+    "certifi": "2026.4.22",
     "charset-normalizer": "3.4.7",
     "colorama": "0.4.6",
     "filelock": "3.29.0",
     "giturlparse": "0.14.0",
-    "idna": "3.12",
+    "idna": "3.13",
     "loguru": "0.7.3",
     "mlcflow": "1.2.1",
     "numpy": "2.4.4",
@@ -19,6 +19,6 @@
     "setuptools": "82.0.1",
     "tabulate": "0.10.0",
     "urllib3": "2.6.3",
-    "wheel": "0.46.3"
+    "wheel": "0.47.0"
   }
 }
