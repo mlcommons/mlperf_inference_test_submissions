@@ -6,7 +6,7 @@
     "filelock": "3.29.0",
     "flatbuffers": "25.12.19",
     "giturlparse": "0.14.0",
-    "idna": "3.13",
+    "idna": "3.14",
     "loguru": "0.7.3",
     "mlcflow": "1.2.1",
     "numpy": "1.26.4",
