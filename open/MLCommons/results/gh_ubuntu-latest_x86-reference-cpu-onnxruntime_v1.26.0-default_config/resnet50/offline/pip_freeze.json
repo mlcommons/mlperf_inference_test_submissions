@@ -21,7 +21,7 @@
     "pybind11": "3.0.4",
     "pycocotools": "2.0.11",
     "PyYAML": "6.0.3",
-    "requests": "2.33.1",
+    "requests": "2.34.0",
     "setuptools": "82.0.1",
     "tabulate": "0.10.0",
     "urllib3": "2.7.0",
