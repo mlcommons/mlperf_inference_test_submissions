@@ -2,9 +2,9 @@
 
 ## Host platform
 
-* OS version: macOS-15.7.4-arm64-arm-64bit
+* OS version: macOS-15.7.4-arm64-arm-64bit-Mach-O
 * CPU version: arm
-* Python version: 3.12.10 (v3.12.10:0cc81280367, Apr  8 2025, 08:46:59) [Clang 13.0.0 (clang-1300.0.29.30)]
+* Python version: 3.13.13 (v3.13.13:01104ce1beb, Apr  7 2026, 14:43:30) [Clang 16.0.0 (clang-1600.0.26.6)]
 * MLC version: unknown
 
 ## MLC Run Command
@@ -16,16 +16,16 @@ pip install -U mlcflow
 
 mlc rm cache -f
 
-mlc pull repo YasirKhokhar@mlperf-automations --checkout=1289654990debe42d02d35769bec03a335fabd5d
+mlc pull repo GATEOverflow@mlperf-automations --checkout=4e55476fb1324b45955057790b26baefef4aa3f1
 
 
 ```
 *Note that if you want to use the [latest automation recipes](https://docs.mlcommons.org/inference) for MLPerf,
- you should simply reload YasirKhokhar@mlperf-automations without checkout and clean MLC cache as follows:*
+ you should simply reload GATEOverflow@mlperf-automations without checkout and clean MLC cache as follows:*
 
 ```bash
-mlc rm repo YasirKhokhar@mlperf-automations
-mlc pull repo YasirKhokhar@mlperf-automations
+mlc rm repo GATEOverflow@mlperf-automations
+mlc pull repo GATEOverflow@mlperf-automations
 mlc rm cache -f
 
 ```
@@ -40,4 +40,4 @@ Model Precision: fp32
 `acc`: `76.0`, Required accuracy for closed division `>= 75.6954`
 
 ### Performance Results 
-`Samples per second`: `6.0194`
+`Samples per second`: `8.05057`
