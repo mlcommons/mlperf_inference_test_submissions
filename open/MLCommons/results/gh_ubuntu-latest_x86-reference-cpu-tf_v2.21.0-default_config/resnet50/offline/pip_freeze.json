@@ -2,7 +2,7 @@
   "pip_freeze": {
     "absl-py": "2.4.0",
     "astunparse": "1.6.3",
-    "certifi": "2026.4.22",
+    "certifi": "2026.5.20",
     "charset-normalizer": "3.4.7",
     "colorama": "0.4.6",
     "filelock": "3.29.0",
@@ -12,14 +12,14 @@
     "google-pasta": "0.2.0",
     "grpcio": "1.80.0",
     "h5py": "3.14.0",
-    "idna": "3.15",
+    "idna": "3.16",
     "keras": "3.14.1",
     "libclang": "18.1.1",
     "loguru": "0.7.3",
     "markdown-it-py": "4.2.0",
     "mdurl": "0.1.2",
     "ml_dtypes": "0.5.4",
-    "mlcflow": "1.2.1",
+    "mlcflow": "1.2.3",
     "namex": "0.1.0",
     "numpy": "1.26.4",
     "opencv-python": "4.10.0.82",
@@ -28,8 +28,8 @@
     "optree": "0.19.1",
     "packaging": "26.2",
     "pillow": "12.2.0",
-    "pip": "26.0.1",
-    "protobuf": "7.34.1",
+    "pip": "26.1.1",
+    "protobuf": "7.35.0",
     "psutil": "7.2.2",
     "pybind11": "3.0.4",
     "pycocotools": "2.0.11",
@@ -45,6 +45,6 @@
     "typing_extensions": "4.15.0",
     "urllib3": "2.7.0",
     "wheel": "0.47.0",
-    "wrapt": "2.1.2"
+    "wrapt": "2.2.0"
   }
 }
