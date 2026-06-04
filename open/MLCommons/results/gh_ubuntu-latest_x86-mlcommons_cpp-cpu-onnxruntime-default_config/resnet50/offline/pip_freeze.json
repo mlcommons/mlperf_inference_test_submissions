@@ -3,7 +3,7 @@
     "certifi": "2026.5.20",
     "charset-normalizer": "3.4.7",
     "colorama": "0.4.6",
-    "filelock": "3.29.0",
+    "filelock": "3.29.1",
     "giturlparse": "0.14.0",
     "idna": "3.18",
     "loguru": "0.7.3",
