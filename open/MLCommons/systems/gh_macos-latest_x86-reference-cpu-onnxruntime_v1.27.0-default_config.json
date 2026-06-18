@@ -10,7 +10,7 @@
   "accelerators_per_node": "0",
   "cooling": "air",
   "division": "open",
-  "framework": "mlcommons_cpp onnxruntime",
+  "framework": "reference onnxruntime v1.27.0",
   "host_memory_capacity": "undefined",
   "host_memory_configuration": "undefined",
   "host_network_card_count": "1",
