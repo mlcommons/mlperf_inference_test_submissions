@@ -8,7 +8,7 @@
     "idna": "3.18",
     "loguru": "0.7.3",
     "mlcflow": "1.2.4",
-    "numpy": "2.4.6",
+    "numpy": "2.5.0",
     "opencv-python-headless": "4.13.0.92",
     "packaging": "26.2",
     "pillow": "12.2.0",
