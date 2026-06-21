@@ -2,13 +2,13 @@
   "pip_freeze": {
     "absl-py": "2.4.0",
     "astunparse": "1.6.3",
-    "certifi": "2026.5.20",
+    "certifi": "2026.6.17",
     "charset-normalizer": "3.4.7",
     "colorama": "0.4.6",
     "filelock": "3.29.4",
     "flatbuffers": "25.12.19",
     "gast": "0.7.0",
-    "giturlparse": "0.14.0",
+    "giturlparse": "0.15.0",
     "google-pasta": "0.2.0",
     "grpcio": "1.81.1",
     "h5py": "3.14.0",
@@ -45,6 +45,6 @@
     "typing_extensions": "4.15.0",
     "urllib3": "2.7.0",
     "wheel": "0.47.0",
-    "wrapt": "2.2.1"
+    "wrapt": "2.2.2"
   }
 }
