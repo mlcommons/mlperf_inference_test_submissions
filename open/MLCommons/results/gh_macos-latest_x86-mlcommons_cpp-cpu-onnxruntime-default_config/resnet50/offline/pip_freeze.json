@@ -1,6 +1,6 @@
 {
   "pip_freeze": {
-    "certifi": "2026.5.20",
+    "certifi": "2026.6.17",
     "charset-normalizer": "3.4.7",
     "colorama": "0.4.6",
     "filelock": "3.29.4",
