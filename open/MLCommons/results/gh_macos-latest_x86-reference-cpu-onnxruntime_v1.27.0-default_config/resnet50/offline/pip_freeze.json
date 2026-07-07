@@ -1,14 +1,14 @@
 {
   "pip_freeze": {
     "certifi": "2026.6.17",
-    "charset-normalizer": "3.4.7",
+    "charset-normalizer": "3.4.9",
     "colorama": "0.4.6",
-    "filelock": "3.29.4",
+    "filelock": "3.29.6",
     "flatbuffers": "25.12.19",
     "giturlparse": "0.15.0",
     "idna": "3.18",
     "loguru": "0.7.3",
-    "mlcflow": "1.2.4",
+    "mlcflow": "1.2.5",
     "numpy": "1.26.4",
     "onnxruntime": "1.27.0",
     "opencv-python": "4.10.0.82",
@@ -22,7 +22,7 @@
     "pycocotools": "2.0.11",
     "PyYAML": "6.0.3",
     "requests": "2.34.2",
-    "setuptools": "82.0.1",
+    "setuptools": "83.0.0",
     "tabulate": "0.10.0",
     "urllib3": "2.7.0",
     "wheel": "0.47.0"
