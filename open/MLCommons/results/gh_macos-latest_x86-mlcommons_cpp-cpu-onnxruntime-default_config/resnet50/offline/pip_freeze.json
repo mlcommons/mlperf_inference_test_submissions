@@ -1,9 +1,9 @@
 {
   "pip_freeze": {
     "certifi": "2026.6.17",
-    "charset-normalizer": "3.4.7",
+    "charset-normalizer": "3.4.9",
     "colorama": "0.4.6",
-    "filelock": "3.29.5",
+    "filelock": "3.29.6",
     "giturlparse": "0.15.0",
     "idna": "3.18",
     "loguru": "0.7.3",
